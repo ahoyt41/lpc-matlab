@@ -1,0 +1,9 @@
+*.zip
+*.mp3
+*.wav
+*.pdf
+.vscode
+*.mat
+*.asv
+**/.venv/
+**/__pycache__/
